@@ -1,6 +1,6 @@
 # PengalamanBelajar
 
-Repository Ini Berisi Pengalaman Belajar di Dicoding Academy
+Repository Ini berisi pengalaman Belajar di Dicoding Academy
 
 
 **14 Juni 2021**
